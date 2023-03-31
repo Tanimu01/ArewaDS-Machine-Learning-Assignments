@@ -15,4 +15,4 @@ Years between 1956  to  1974 are called "The golden years" in Machine Learning, 
 **1974 - 1980: "AI Winter"**
 Is the years of difficiulties in AI, is the years where confidence is very low, lack of funding, paucity of data and Limitations in compute powers among others.
 **1980s Expert systems**
-in the mid 8os
+in the
