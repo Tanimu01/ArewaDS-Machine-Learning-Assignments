@@ -2,7 +2,7 @@
 -------------------------------------
 ## I AM VERY HAPPY TO LEARN FAIRNESS IN MACHINE LEARNING  FOR TODAY'S TOPIC
 **What is Fairness in Machine Learning**
-Machine Learning is the process of removing or correcting bias intentionally or otherwise from models, train data of Machine Learning , bias can be from data or models.
+Fairness Machine Learning is the process of removing or correcting bias intentionally or otherwise from models, train data of Machine Learning , bias can be from data or models.
 **Example of bias data:** In a situation were there is inadequate data of one parametre, for example if you are making a model between divorced and married people who is happier among them, married people data is always available can be easier to get than divorced people, this can couse bias in the data, can also effect model for prediction.
 
 **Example of Bias Model**
